@@ -57,7 +57,7 @@ async def upload(s, path, private = False):
 
 ####################################################################################
 
-@userge.on_cmd("zipup", about={
+@userge.on_cmd("zup", about={
   "header": "Zippyshare Uploader",
   "description": "Upload a file to zippyshare",
   "flags": {"-p": "To make it private"},
