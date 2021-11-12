@@ -28,8 +28,8 @@ DEAD_STRINGS = [
   "`Tumhari bndi mujhe se chud rhi hai`",
   "`Dead ka loda chota hai`",
   "`Dead ka insta girl ki fuddi me thukunga`",
-  "'Teri insta girl meri malish kar rahi he'",
-  "'Dead ki biwi chai waale sai chudati hai'"
+  "`Teri insta girl meri malish kar rahi he`",
+  "`Dead ki biwi chai waale sai chudati hai`"
 ]
 
 ABUSE_STRINGS = [
